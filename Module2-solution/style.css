@@ -13,11 +13,11 @@ h1 {
   		background-color: #FFFF00;
   		border: 1px solid black;
   		padding: 0px 10px 10px 0px;
-      margin-right: 20px;
+      margin-right: 30px;
       margin-top: 60px;
-      margin-left: 200px;
-  		width: 330px;
-  		height:300px;
+      margin-left: 50px;
+  		width: 400px;
+  		height:250px;
       float: left;
   	 }
   	 .box2 {
@@ -25,11 +25,11 @@ h1 {
   		background-color: #FFFF00;
   		border: 1px solid black;
   		padding: 0px 10px 10px 0px;
-      margin-right: 20px;
+      margin-right: 30px;
       margin-top: 60px;
-      margin-left: 20px;
-  		width: 330px;
-  		height:300px;
+      margin-left: 50px;
+  		width: 400px;
+  		height:250px;
       float: left;
   		}
   	 .box3 {
@@ -37,11 +37,11 @@ h1 {
   		background-color: #FFFF00;
   		border: 1px solid black;
   		padding: 0px 10px 10px 0px;
-      margin-right: 20px;
+      margin-right: 30px;
       margin-top: 60px;
-      margin-left: 20px;
-  		width: 330px;
-  		height:300px;
+      margin-left: 50px;
+  		width: 400px;
+  		height:250px;
       float: left;
         }
   	#p {
